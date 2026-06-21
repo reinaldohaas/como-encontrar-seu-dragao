@@ -1,0 +1,12 @@
+# artefatos de compilação LaTeX
+*.aux
+*.log
+*.toc
+*.idx
+*.ind
+*.ilg
+*.out
+*.synctex.gz
+latex/
+__pycache__/
+*.pyc
