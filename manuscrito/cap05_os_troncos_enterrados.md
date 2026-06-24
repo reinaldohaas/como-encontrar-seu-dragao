@@ -42,6 +42,14 @@ espécie de árvore que cresce no alto e não no fundo: a imbuia, árvore de cli
 planalto — tão característica da região que a cidade vizinha se chama, justamente,
 Imbuia.
 
+E aqui entra um detalhe que eu conheço de perto, da minha própria região. Acima do Rio
+Itajaí-Mirim, dos dois lados, na altura do Alto Molungo, há imbuias — e não poucas. Essa
+região está mapeada como uma das de maior concentração de imbuia na classificação
+fitogeográfica proposta pelo botânico Roberto Miguel Klein, um dos maiores estudiosos da
+flora catarinense. Ou seja: o alto do vale do Itajaí-Mirim é, comprovadamente, terra de
+imbuia. Quando se encontram troncos de imbuia enterrados no fundo do vale, em Brusque,
+não há dúvida de onde eles vieram — vieram de cima, de onde a imbuia de fato cresce.
+
 Os troncos enterrados em Brusque, no fundo do vale, eram dessas árvores do alto. Árvores
 que cresciam lá em cima, perto das nascentes, e que vieram parar treze metros abaixo da
 superfície, a quilômetros de distância, no fundo da bacia. Alguma coisa as arrancou de
@@ -53,6 +61,13 @@ visível, as terras altas onde a imbuia cresce até a região onde os troncos fo
 — uma cicatriz de movimento de massa que conecta o alto ao baixo. As árvores não
 "caíram" ali. Elas foram transportadas, vale abaixo, por um evento que mobilizou a
 encosta inteira.
+
+Eu acrescento, do que conheço da região, mais uma camada à observação do Aumond: ali não
+houve só um escorregamento pontual. Houve — e ainda há, visível na paisagem — um
+**escoamento translacional enorme**, um movimento de massa amplo encosta abaixo, e uma
+**erosão linear** marcada no terreno. As feições não são relíquias de um único acidente
+antigo: são marcas de um processo que mobilizou, e ainda mobiliza, a encosta inteira do
+vale.
 
 ---
 
@@ -151,6 +166,21 @@ já desceram este vale e podem descer de novo.
 O sonho sabia a altura. A terra guarda o mecanismo. E eu, entre os dois, levei anos para
 parar de forçar a coincidência fácil e enxergar a conexão verdadeira — que é mais sóbria,
 mais documentada, e muito mais assustadora.
+
+---
+
+Há uma última coisa que a terra deste vale guarda, e que está escondida à vista de todos
+— no próprio nome antigo do lugar. Até o fim do século XIX, o vale do Itajaí era conhecido
+como **Rio dos Trombudos**. Não "rio do vale", não "rio das enchentes": rio dos
+*trombudos*. O nome do fenômeno estava no nome do rio. Gerações que viveram aqui antes de
+nós batizaram este vale pela coisa que mais o marcava — as paredes de água que desciam as
+encostas. Eles sabiam. Estava na boca deles, e ficou no mapa, até que esquecemos o que a
+palavra significava e o nome se perdeu.
+
+Esse esquecimento tem data e tem documento. No próximo movimento deste livro, eu volto ao
+século XIX para ler, com vagar, o que aconteceu neste vale em 1880 e em 1911 — e o que um
+observador honesto registrou, sem saber explicar, na esperança de que alguém, um dia,
+soubesse.
 
 ---
 

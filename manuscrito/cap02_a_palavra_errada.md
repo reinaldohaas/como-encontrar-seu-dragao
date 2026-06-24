@@ -86,15 +86,20 @@ precisa de um número só. Você não pode codificar uma anotação como "ou ven
 enchente", senão a estatística desmorona — fica impossível depois somar, contar, comparar.
 Era preciso escolher.
 
-E nós escolhemos o **vento**.
+E aqui está o ponto que me custa confessar: diante da dúvida, nós fomos aos dicionários.
+Não foi uma decisão minha, tomada sozinho — foi tomada em conjunto, por uma equipe de
+especialistas da Epagri, da qual eu fazia parte. Reunimos o que sabíamos, consultamos as
+definições, pesamos os argumentos. E foi uma decisão tão cuidadosa quanto equivocada.
 
-Discutimos, pesamos os argumentos, e a decisão pendeu para o lado do vento. A interpretação
-da chuva-que-traz-cabeça-d'água ficou de fora. Foi descartada como leitura secundária, e o
-fenômeno do Seu Irineu entrou no banco de dados oficial do estado classificado como um
-evento de vento.
+Nós escolhemos o **vento**.
 
-Eu participei dessa decisão. E é por isso que este capítulo é uma confissão, não só uma
-memória.
+A interpretação da chuva-que-traz-cabeça-d'água ficou de fora. Foi descartada como leitura
+secundária, e o fenômeno do Seu Irineu entrou no banco de dados oficial do estado
+classificado como um evento de vento.
+
+Eu participei dessa decisão. Não fui o único, e não a tomei sozinho — mas participei, e é
+por isso que este capítulo é uma confissão, não só uma memória. A responsabilidade foi
+coletiva; a confissão, aqui, é a minha parte nela.
 
 ---
 

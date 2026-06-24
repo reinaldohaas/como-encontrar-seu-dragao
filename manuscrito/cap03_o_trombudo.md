@@ -23,11 +23,14 @@ Machado; e a do alto rio São Bento, em Siderópolis. Ali, encostas inteiras se
 desfizeram, os vales se encheram de blocos e troncos, e morreram pelo menos vinte e nove
 pessoas.
 
-Eu estudei esse evento. Ele entrou no meu trabalho como um caso de inundação extrema, dos
-que se analisam com séries de chuva e cálculos de vazão. Apliquei as ferramentas.
-Descrevi o evento com competência técnica. E mesmo assim alguma coisa não fechava — e
-levei quase trinta anos para entender que o problema não estava nos relatos das pessoas,
-nem mesmo no laudo dos meus colegas. Estava na moldura que todos nós usamos para ler o
+Eu estudei esse evento — e o estudei a fundo. Ele foi, na prática, o objeto do meu
+doutorado: simulei numericamente aquele desastre, apliquei modelos atmosféricos, séries de
+chuva, cálculos de vazão, todo o instrumental de um meteorologista treinado. Descrevi o
+evento com competência técnica. E mesmo assim alguma coisa não fechava — e, o que mais me
+custa admitir, na época eu deixei justamente o mais importante de fora. Tinha o fenômeno
+nas mãos, simulado no computador, e não o reconheci. Levei quase trinta anos para entender
+que o problema não estava nos relatos das pessoas, nem mesmo no laudo dos meus colegas.
+Estava na moldura que todos nós usávamos — eu inclusive, com doutorado e tudo — para ler o
 que tínhamos diante dos olhos.
 
 Este capítulo é a história dessa moldura — de como ela acertou quase tudo, e de como o
@@ -55,6 +58,18 @@ que a disparou: o **toró**. Se estou certo, a relação entre os três termos �
 não um sinônimo triplo — o toró desce do alto e arma o gatilho; o trombudo é o que resta
 dele quando chega ao vale e alguém o vê passar. O título deste capítulo é o nome que o
 povo deu ao efeito. O corpo dele é a busca pela causa.
+
+E há dois traços do trombudo que eu preciso destacar desde já, porque são o que a palavra
+técnica "cabeça d'água" não captura — e porque são a chave de tudo o que vem depois. O
+primeiro é que o trombudo não desce limpo: ele desce **carregado de detritos**, uma massa
+de troncos, pedras e barro arrastada junto com a água. Esses detritos não são um acaso da
+enxurrada; eles são produzidos lá em cima, nas encostas, pelo próprio fenômeno que dispara
+a cheia — pelos torós que desabam sobre a serra e arrancam a montanha. O segundo traço é
+que o trombudo raramente é uma onda só. As pessoas que sobreviveram a ele descrevem
+**ondas sucessivas** — não uma parede de água, mas várias, uma atrás da outra, em pulsos.
+Guarde esses dois traços, os detritos e as ondas em série, porque eu vou voltar a eles
+neste capítulo e, com mais profundidade, em capítulos adiante: eles são pistas diretas do
+mecanismo que produz o fenômeno.
 
 ---
 
@@ -348,6 +363,34 @@ homenagem que eu sei prestar a quem viu primeiro.
 pelo paredão de água. Tratar com peso e dignidade, sem detalhes gráficos; referência ao
 livro "Harmonia e Tempestades". Entra como a razão humana de devolver sentido aos
 relatos, não como prova da hipótese. Escrever a partir do relato real do autor.]
+
+Eu preciso terminar este capítulo com uma pessoa, não com um argumento.
+
+Anos depois, numa reunião da comunidade em Araranguá — uma reunião que tratava, na
+verdade, do furacão Catarina —, alguém me contou que estava ali, entre os presentes, um
+homem que havia perdido a família inteira num desses eventos. Toda a família, levada de
+uma vez pela água. Disseram-me que ele sofria muito, ainda, e que se via o peso disso
+nele.
+
+Eu senti uma vontade imensa de conversar com aquele homem. A pergunta do pesquisador
+acendeu na hora: será que foi um toró? Ele teria visto? O que ele viu? Mas eu olhei em
+volta, e entendi que aquele não era o lugar, e não era a hora. O assunto da reunião era
+outro. E, acima de tudo, eu estava diante de uma dor que eu não posso sequer imaginar —
+eu, que tenho meus filhos, não consigo nem chegar perto de conceber o que é perder todos
+de uma vez. Decidi não abordá-lo. Achei, e ainda acho, que a ciência tem o dever de
+diminuir o sofrimento humano, não de aumentá-lo — e que chegar àquele homem, naquele
+momento, com a minha curiosidade, seria reabrir uma ferida em nome de uma hipótese. Não
+fiz isso. Vim embora sem o depoimento dele.
+
+Nunca encontrei esse relato registrado em lugar nenhum. Ele não está em laudo, não está em
+jornal, não está em arquivo. Existe apenas na memória de quem o conheceu, e agora, de
+segunda mão, na minha. É por isso que eu o coloco aqui — não como prova de coisa alguma,
+porque ele não prova nada, mas como homenagem. Homenagem àquele pai, e às muitas pessoas
+que perderam quem amavam para esses eventos e cujo sofrimento nunca virou dado, nunca
+virou citação, nunca foi lido por "pessoas entendidas no assunto". Este livro tenta
+devolver sentido aos relatos dos que viram. Mas há relatos que não se deve perseguir, e
+dores diante das quais a única resposta decente é o silêncio e o respeito. Que este
+parágrafo seja o lugar delas.
 
 ---
 

@@ -72,6 +72,70 @@ No mesmo dia em que, do outro lado do planeta, um terremoto rompeu o fundo do Oc
 Pacífico próximo ao Japão, desencadeando o tsunami que devastaria a região de Tōhoku e
 entraria para a história como uma das maiores catástrofes naturais dos tempos modernos.
 
+Que fique claro: não proponho nenhuma ligação entre as duas coisas. Uma é tectônica, a
+outra é atmosférica, e a coincidência da data é só isso — coincidência. Mas foi ela que
+fixou o dia na minha memória. É difícil esquecer a data em que você viu, pela primeira
+vez, uma parede de água descer um vale, quando essa mesma data entrou para a história do
+mundo por causa de outra parede de água, do outro lado do oceano.
+
+---
+
+Para entender por que aquele dia me marcou tanto, é preciso entender de onde eu venho —
+porque eu não cheguei àquele vale como turista. Aquele é o vale da minha vida.
+
+O Vale do Itajaí foi, muito antes de nós, território dos seus habitantes originais: os
+povos indígenas que viveram nessas matas e às margens desses rios por milênios, e cujo
+conhecimento da terra e das águas foi, em larga medida, apagado pela colonização. Quando
+os colonos europeus chegaram — alemães, italianos e seus descendentes, entre os quais a
+minha própria família —, encontraram um vale que já tinha donos e já tinha histórias. É
+bom não esquecer disso ao contar qualquer história do Itajaí: a nossa é apenas a camada
+mais recente.
+
+A minha camada começa nas terras do meu avô, Fernando Doerner, em Vidal Ramos. Foi ali,
+no alto vale do Itajaí-Mirim, que três famílias de primos cresceram tendo o rio como
+playground. Para uma geração inteira de crianças — eu entre elas —, o Itajaí-Mirim não era
+um objeto de estudo nem uma ameaça: era o lugar de brincar. A gente passava os dias na
+água, nas pedras, nas margens. O rio era nosso.
+
+E havia as expedições. A gente saía pela mata atrás de frutas nativas — e, de um jeito que
+só muito mais tarde eu entenderia como estranho, essas expedições quase sempre terminavam
+numa lagoa. O vale tinha lagoas naturais espalhadas pelo fundo, e era nelas que a gente
+ia parar. Depois das grandes cheias, essas lagoas ficavam cobertas de frutas da Mata
+Atlântica boiando na superfície — uma fartura que vinha não se sabia bem de onde, trazida
+pela água. Para uma criança, era quase mágica: a água trazia comida.
+
+Ouvi dizer, certa vez — e registro como ouvi, tradição oral, sem poder afirmar que seja
+verdade histórica —, que aquelas frutas teriam sido plantadas pelos Xokleng, que
+aproveitavam as clareiras abertas no meio da floresta para cultivar. Não sei se é assim.
+Mas a frase me ficou, porque guarda uma associação que eu só muito depois entenderia ser
+importante: a ligação entre as **lagoas** e as **clareiras**. Onde havia uma lagoa, perto
+dela havia uma clareira — uma abertura na mata fechada, um vazio onde a floresta tinha sido
+arrancada e onde a luz chegava ao chão. As frutas, plantadas ou não, prosperavam nessas
+aberturas.
+
+Hoje eu faço a pergunta que não sabia fazer na infância: **como aquelas lagoas se
+formaram?** E, junto com ela, a pergunta gêmea: **o que abre uma clareira no meio de uma
+floresta fechada?** O que escava, no fundo de um vale, bacias que se enchem de água parada
+e recolhem os frutos de uma floresta inteira lá de cima — e, ao mesmo tempo, rasga no alto
+um vazio onde antes havia mata? Guarde as duas perguntas, e guarde sobretudo a ligação
+entre elas, porque ela vai ser explorada extensamente ao longo deste livro. Por ora, só uma
+insinuação: e se a lagoa embaixo e a clareira em cima forem a mesma cicatriz, as duas
+pontas de um único golpe? E se aquilo que arranca a mata e abre a clareira for exatamente o
+mesmo que escava a lagoa e enche-a de frutos? Uma água capaz de arrancar frutos de uma
+floresta no alto e depositá-los, intactos, numa lagoa lá embaixo, é uma água que faz um
+trabalho específico — e que deixa, dos dois lados, uma marca. Esse trabalho, e essas
+marcas, vão voltar, com outro nome, mais adiante.
+
+---
+
+Há ainda uma última coisa que eu preciso plantar aqui, e que eu mesmo só descobriria muito
+depois de adulto: **aquele não foi o primeiro trombudo daquele vale.** O Rio do Testo, o
+mesmo rio que eu vi transbordar rumo a Pomerode em 2011, já tinha feito exatamente aquilo
+antes — e há um registro espantoso disso, escrito em 1880, que eu vou examinar com vagar
+mais adiante neste livro. O fenômeno que eu testemunhei naquela tarde de março não era uma
+novidade. Era a repetição de um padrão antigo, que um observador honesto do século XIX
+registrou sem saber explicar, na esperança de que alguém, um dia, soubesse ler.
+
 ---
 
 Algumas semanas depois, voltei a Vidal Ramos para visitar meus pais.
@@ -151,7 +215,13 @@ E, pela primeira vez, fiquei sozinho com a minha própria cabeça por tempo sufi
 começar a entendê-la.
 
 Foi então que veio um diagnóstico que deveria ter chegado muitos anos antes: Transtorno do
-Déficit de Atenção e Hiperatividade, subtipo desatento.
+Déficit de Atenção e Hiperatividade. No meu caso, com uma marca que explica tanto as
+minhas dificuldades quanto, talvez, este livro inteiro: o **hiperfoco**. A capacidade de,
+quando um assunto me captura, mergulhar nele com uma intensidade que apaga o mundo ao
+redor — perder a hora, perder o sono, esquecer de comer, e ficar dias, semanas, anos preso
+a uma única pergunta. O outro lado da dispersão é exatamente esse: a atenção que não se
+fixa no que os outros pedem, mas que, quando enfim se prende a algo escolhido por ela
+mesma, não larga mais.
 
 O efeito foi menos uma descoberta do que uma explicação.
 
@@ -289,6 +359,6 @@ todo, esperando para ser reconhecida.
 
 ---
 
-*Próximo capítulo: 1993. Eu sou jovem, começo a trabalhar na Epagri, e ajudo a decidir o
-significado de uma palavra que tem três sentidos possíveis. Nós escolhemos um. Eu sempre
-soube que faltava um quarto.*
+*Próximo capítulo: a Epagri, o banco de dados das observações meteorológicas do estado, e
+uma palavra com duas leituras possíveis — vento ou chuva com cabeça d'água. Fomos aos
+dicionários, e a decisão foi tomada por uma equipe de especialistas. Escolhemos o vento.*
